@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Xylophone
 //
-//  Created by Angela Yu on 28/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Juan Diego Ocampo on 30/10/2020.
+//  Copyright © 2020 The App Brewery. All rights reserved.
 //
 
 import UIKit
